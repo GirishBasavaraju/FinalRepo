@@ -1,0 +1,1047 @@
+[
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894446,
+            "changeTime": 1539164894446,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894446,
+            "changeTime": 1539164894446,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164895086,
+            "changeTime": 1539164895086,
+            "contentHash": "5e2c79a1470fe6d860a494e941eef8d23f9c2352",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894524,
+            "changeTime": 1539164894524,
+            "contentHash": "b071af41fbaa3f8f6f9a75f48f768bb3b9474666",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\classes\\AccountProcessor.cls",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\classes\\AccountProcessor.cls",
+            "isDirectory": false,
+            "size": 422,
+            "modifiedTime": 1539164894446,
+            "changeTime": 1539164894446,
+            "contentHash": "2ac45a2c397dd25a089b59d95526f1dcbbbdf945",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\classes\\AccountProcessor.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\classes\\AccountProcessor.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1539164894446,
+            "changeTime": 1539164894446,
+            "contentHash": "5dba4d8d1d7ec0e924d941c2ab6e8f8963f526c1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\classes\\AccountProcessorTest.cls",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\classes\\AccountProcessorTest.cls",
+            "isDirectory": false,
+            "size": 671,
+            "modifiedTime": 1539164894524,
+            "changeTime": 1539164894524,
+            "contentHash": "b282f8f69844e513329f7e82b45168335ca018e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\classes\\AccountProcessorTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\classes\\AccountProcessorTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1539164894524,
+            "changeTime": 1539164894524,
+            "contentHash": "5dba4d8d1d7ec0e924d941c2ab6e8f8963f526c1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\globalValueSets",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\globalValueSets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894524,
+            "changeTime": 1539164894524,
+            "contentHash": "5af721bc7d86450d86888a39287811e536844e88",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\globalValueSets\\Asset_Class.globalValueSet-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\globalValueSets\\Asset_Class.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 1220,
+            "modifiedTime": 1539164894524,
+            "changeTime": 1539164894524,
+            "contentHash": "a672b20c8369d4315efb9e1fed35a01b7186fe2b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539165333161,
+            "changeTime": 1539165333161,
+            "contentHash": "214046a4ae345d917ebbdccdf233fa6fa30c69a2"
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Fund__c-Fund Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Fund__c-Fund Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3732,
+            "modifiedTime": 1539164894524,
+            "changeTime": 1539164894524,
+            "contentHash": "b8c3cb3f71f5fd32b5caacd9d231a54c0a394512",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8730,
+            "modifiedTime": 1539164894539,
+            "changeTime": 1539164894539,
+            "contentHash": "0ca325699c11b93132912c4452b837fbd135ead8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8688,
+            "modifiedTime": 1539164894633,
+            "changeTime": 1539164894633,
+            "contentHash": "cf12d496f34b9aa85fd6d19bc57ebd4c4259b110",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8589,
+            "modifiedTime": 1539164894633,
+            "changeTime": 1539164894633,
+            "contentHash": "2e982dde4c288402f01c746132175f2996cefc56",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8680,
+            "modifiedTime": 1539164894649,
+            "changeTime": 1539164894649,
+            "contentHash": "0269987331276473a55ddeeb263624a83f2dfc2d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Order-Order Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Order-Order Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 5907,
+            "modifiedTime": 1539164894649,
+            "changeTime": 1539164894649,
+            "contentHash": "84b9cc14aebba3a33077f302503cf1234d4eeb4d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Registration_form__c-Registration Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Registration_form__c-Registration Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3164,
+            "modifiedTime": 1539164894649,
+            "changeTime": 1539164894649,
+            "contentHash": "3f667c73ce34459b4b32091853f1edd584e30e15",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Sector__c-Sector Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Sector__c-Sector Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2512,
+            "modifiedTime": 1539164894664,
+            "changeTime": 1539164894664,
+            "contentHash": "f303e9c83fc6edebb31872e0d3bd62c130ef0856",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539165333130,
+            "changeTime": 1539165333130,
+            "contentHash": "b1d699da9f0b95039eb26c12918199c2bdf7ee10"
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894664,
+            "changeTime": 1539164894664,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894664,
+            "changeTime": 1539164894664,
+            "contentHash": "0124e328b479940f26a28cea3ad6d186946e546e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Account\\fields\\Number_of_Contacts__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Account\\fields\\Number_of_Contacts__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 428,
+            "modifiedTime": 1539164894664,
+            "changeTime": 1539164894664,
+            "contentHash": "d863d9a54d5325dc1ea1a05b9088992afad4eb55",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894758,
+            "changeTime": 1539164894758,
+            "contentHash": "ed20baa194347af7b9c0984e5903557387f79f80",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894743,
+            "changeTime": 1539164894743,
+            "contentHash": "9e3035980db44b403145254c133776b371c9fb6c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Abbreviation__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Abbreviation__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 379,
+            "modifiedTime": 1539164894680,
+            "changeTime": 1539164894680,
+            "contentHash": "6125892926a19778e39c612c8fa16f3cdb5612f9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Asset_Class__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Asset_Class__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 451,
+            "modifiedTime": 1539164894680,
+            "changeTime": 1539164894680,
+            "contentHash": "96c640db9474f0447c9994154f0dd3fd1994db78",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Five_Year_Return__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Five_Year_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 390,
+            "modifiedTime": 1539164894743,
+            "changeTime": 1539164894743,
+            "contentHash": "72e110d251f34ad9cce8ee8bdd2e57384978f6e2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\One_Year_Return__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\One_Year_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1539164894743,
+            "changeTime": 1539164894743,
+            "contentHash": "bdf614d607981d94acb8e88b5e647b92b920903a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Rating__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Rating__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1539164894743,
+            "changeTime": 1539164894743,
+            "contentHash": "8f07ce06c5a0c1449d0dcf09b519a356b4ca9a7a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Sector__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Sector__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 603,
+            "modifiedTime": 1539164894743,
+            "changeTime": 1539164894743,
+            "contentHash": "5f9e0b69c5ff000cc9b20053257b3087344da843",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Two_Year_Return__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\Two_Year_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1539164894743,
+            "changeTime": 1539164894743,
+            "contentHash": "be7843618b6e36bd2b5788186c75c526f771dd9c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\YTD_Return__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\fields\\YTD_Return__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1539164894743,
+            "changeTime": 1539164894743,
+            "contentHash": "13fcfc2078610414802ed6ea38fc6d5874c1f566",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\Fund__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\Fund__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2205,
+            "modifiedTime": 1539164894680,
+            "changeTime": 1539164894680,
+            "contentHash": "d9717533418ffbe7f76fadde2da7242582529521",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894758,
+            "changeTime": 1539164894758,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Fund__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1539164894758,
+            "changeTime": 1539164894758,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Opportunity",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Opportunity",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894758,
+            "changeTime": 1539164894758,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Opportunity\\fields",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Opportunity\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894758,
+            "changeTime": 1539164894758,
+            "contentHash": "741e55328e1f28b2e70fac2dc05dff6c1f62a28e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Opportunity\\fields\\Opporyunity_Available__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Opportunity\\fields\\Opporyunity_Available__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1539164894758,
+            "changeTime": 1539164894758,
+            "contentHash": "d538713048f5d143199aa224b9eefdd0d411cb22",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Order",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Order",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894758,
+            "changeTime": 1539164894758,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Order\\fields",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Order\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894758,
+            "changeTime": 1539164894758,
+            "contentHash": "aaeeb48999c2678b5cc9a77be8d19eeab7276fd3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Order\\fields\\Contact_Involved__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Order\\fields\\Contact_Involved__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 387,
+            "modifiedTime": 1539164894758,
+            "changeTime": 1539164894758,
+            "contentHash": "72639ae63aefe0f9b7b6716d0e726bc70d3a33c6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894993,
+            "changeTime": 1539164894993,
+            "contentHash": "18e0009c22bf9e98c4b7d5c5984ec7c7a01ae4ea",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894914,
+            "changeTime": 1539164894914,
+            "contentHash": "7e73b393f5ec67324bdf7a733ae503705b1cbb99",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields\\Available_on_Weekends__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields\\Available_on_Weekends__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1539164894883,
+            "changeTime": 1539164894883,
+            "contentHash": "dbe51c28f4576f81ca2510c35693dc7dc29ff3ea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields\\class__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields\\class__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1539164894914,
+            "changeTime": 1539164894914,
+            "contentHash": "13bd88176a60286d88a4c74349e29c1b14d626df",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields\\Hours_of_Study__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields\\Hours_of_Study__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1375,
+            "modifiedTime": 1539164894899,
+            "changeTime": 1539164894899,
+            "contentHash": "489bd3f578c56018e8862e2f0e4cd63e500e8869",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields\\Mobile_Number__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields\\Mobile_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 330,
+            "modifiedTime": 1539164894899,
+            "changeTime": 1539164894899,
+            "contentHash": "72a487407c1a6b5bb40970d7554e71b722658928",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields\\Parents_name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\fields\\Parents_name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 381,
+            "modifiedTime": 1539164894899,
+            "changeTime": 1539164894899,
+            "contentHash": "d5281d98a18dae8a8e75e41dcec2760cd0f1aaaa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164894993,
+            "changeTime": 1539164894993,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1539164894993,
+            "changeTime": 1539164894993,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\Registration_form__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Registration_form__c\\Registration_form__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2208,
+            "modifiedTime": 1539164894868,
+            "changeTime": 1539164894868,
+            "contentHash": "366ca1784abd421a3f6b7589c99ccbe693cdb0f5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164895008,
+            "changeTime": 1539164895008,
+            "contentHash": "b48d4d96bd0f91490cc4e5759619dd65f8c148a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164895008,
+            "changeTime": 1539164895008,
+            "contentHash": "f80814692f0231553d9c649872574210d0b98ca6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c\\fields\\Sector_Id__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c\\fields\\Sector_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 413,
+            "modifiedTime": 1539164895008,
+            "changeTime": 1539164895008,
+            "contentHash": "ca081c22b012c9294ea21f152988e9793a9cda2e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164895024,
+            "changeTime": 1539164895024,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1539164895024,
+            "changeTime": 1539164895024,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c\\Sector__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Sector__c\\Sector__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2196,
+            "modifiedTime": 1539164895008,
+            "changeTime": 1539164895008,
+            "contentHash": "10fdb1d4d2348999ce0e3fbd977359dcb59abe0d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164895024,
+            "changeTime": 1539164895024,
+            "contentHash": "673313f7b90f7ba9323cfc6c2e4bd32930a0dba9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\pages\\AccountEdit.page",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\pages\\AccountEdit.page",
+            "isDirectory": false,
+            "size": 1340,
+            "modifiedTime": 1539164895024,
+            "changeTime": 1539164895024,
+            "contentHash": "5534106fe9f5fff64da8aac74bef475f94274520",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\pages\\AccountEdit.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\pages\\AccountEdit.page-meta.xml",
+            "isDirectory": false,
+            "size": 294,
+            "modifiedTime": 1539164895024,
+            "changeTime": 1539164895024,
+            "contentHash": "41df56494ea508a1339150e6e71f176a6848d014",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164895164,
+            "changeTime": 1539164895164,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 21843,
+            "modifiedTime": 1539165333505,
+            "changeTime": 1539165333505,
+            "contentHash": "84f81e7d397ac07d48dcfd79b893b9e785bae4b3"
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7440,
+            "modifiedTime": 1539165333411,
+            "changeTime": 1539165333411,
+            "contentHash": "1ec4cf0288d810877a4716555a7c734784af35fa"
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7436,
+            "modifiedTime": 1539165333223,
+            "changeTime": 1539165333223,
+            "contentHash": "7016a0f51d55323032dab1f50ecb1c2975bc8997"
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7776,
+            "modifiedTime": 1539165333286,
+            "changeTime": 1539165333286,
+            "contentHash": "1e768f670f605441808a6517adb20a49d9c41ec0"
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo",
+        {
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539164895164,
+            "changeTime": 1539164895164,
+            "contentHash": "f0104de975dc524ccedf07231c03fbca11880937",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Product2\\fields\\Product_category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Product2\\fields\\Product_category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 376,
+            "modifiedTime": 1539165333130,
+            "changeTime": 1539165333130,
+            "contentHash": "01c3a849fd7d10cb521bc9658b408da1e0f6b901"
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Product2-Product Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\layouts\\Product2-Product Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2969,
+            "modifiedTime": 1539165333161,
+            "changeTime": 1539165333161,
+            "contentHash": "d9224d5101142bd8e0e3acf3442c84618db6c81b"
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Product2\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Product2\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539165333130,
+            "changeTime": 1539165333130,
+            "contentHash": "b1eb938380e9499f52e26db4674ceaba89dedcf2"
+        }
+    ],
+    [
+        "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Product2",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\AL2043\\diff\\FinalRepo\\force-app\\main\\default\\objects\\Product2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1539165333130,
+            "changeTime": 1539165333130,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ]
+]

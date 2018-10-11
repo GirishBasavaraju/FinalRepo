@@ -17,7 +17,7 @@
         password="${sf.password}"
         serverurl="${sf.serverurl}"
 	runAllTests="true"
-        deployRoot="temp/unpackaged"
+        deployRoot="temp/unpackaged" />
     </target> 
 
     <target name="deployEmptyCheckOnly">

@@ -12,14 +12,7 @@
     </types>
     <types>
         <members>Account.Number_of_Contacts__c</members>
-        <members>Fund__c.Abbreviation__c</members>
-        <members>Fund__c.Asset_Class__c</members>
-        <members>Fund__c.Five_Year_Return__c</members>
-        <members>Fund__c.One_Year_Return__c</members>
-        <members>Fund__c.Rating__c</members>
-        <members>Fund__c.Sector__c</members>
-        <members>Fund__c.Two_Year_Return__c</members>
-        <members>Fund__c.YTD_Return__c</members>
+       
         <members>Registration_form__c.Available_on_Weekends__c</members>
         <members>Registration_form__c.Hours_of_Study__c</members>
         <members>Registration_form__c.Mobile_Number__c</members>
@@ -29,7 +22,7 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Fund__c</members>
+        
         <members>Registration_form__c</members>
         <members>Sector__c</members>
         <name>CustomObject</name>
@@ -39,13 +32,13 @@
         <name>GlobalValueSet</name>
     </types>
     <types>
-        <members>Fund__c-Fund Layout</members>
+        
         <members>Registration_form__c-Registration Layout</members>
         <members>Sector__c-Sector Layout</members>
         <name>Layout</name>
     </types>
     <types>
-        <members>Fund__c.All</members>
+       
         <members>Registration_form__c.All</members>
         <members>Sector__c.All</members>
         <name>ListView</name>
